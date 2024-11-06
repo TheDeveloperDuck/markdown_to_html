@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+.content h1, .content h2, .content h3 {
+    color: #333;
+}
+
+.content p {
+    color: #555;
+}
