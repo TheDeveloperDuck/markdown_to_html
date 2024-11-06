@@ -1,0 +1,8 @@
+2024-11-06 09:20:41,249 - INFO - Using HTML template: '.\test_template.html'
+2024-11-06 09:20:41,249 - INFO - Using CSS template: '.\test_style.css'
+2024-11-06 09:20:41,254 - INFO - Successfully read Markdown file '.\test.md'
+2024-11-06 09:20:41,258 - INFO - Converted Markdown to HTML content
+2024-11-06 09:20:41,266 - INFO - Successfully read CSS template file '.\test_style.css'
+2024-11-06 09:20:41,275 - INFO - Successfully read HTML template file '.\test_template.html'
+2024-11-06 09:20:41,275 - INFO - Successfully combined HTML content and templates
+2024-11-06 09:20:41,276 - INFO - Converted HTML saved to 'output_html\test.html'

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown to HTML</title>
+    {{ css }}  <!-- CSS content will be injected here -->
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Markdown to HTML Converter</h1>
+            <p>Created with ❤️ using Python</p>
+        </header>
+        <main>
+            {{ content }}  <!-- Markdown content converted to HTML will be injected here -->
+        </main>
+        <footer>
+            <p>&copy; 2023 Markdown to HTML Converter</p>
+        </footer>
+    </div>
+</body>
+</html>
